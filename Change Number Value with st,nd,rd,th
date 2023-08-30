@@ -1,6 +1,6 @@
 1.	  This_Day_Date = zoho.currentdate.toString("dd");
 2.	   value1 = "th";
-//koti chennam
+//koti chennam added just now
 3.		if(This_Day_Date.right(1) ="1" && This_Day_Date != "11")
 4.		{
 5.			This_Day_Date = This_Day_Date+" "+"st";
